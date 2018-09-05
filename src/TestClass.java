@@ -4,5 +4,6 @@ public class TestClass {
         System.out.println("Test again");
         System.out.println("Test again - 2");
         System.out.println("Test again - 3");
+        System.out.println("Test again - 4");
     }
 }
